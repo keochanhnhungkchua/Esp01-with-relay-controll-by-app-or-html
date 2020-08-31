@@ -2,17 +2,19 @@ ESP-01S Relay Adruino Firmware
 ======================
 
 Firmware for controlling an ESP-01S-based IoT relay.
+---------
+
 Connect Arduino
 ---------
 User Uart module 
-![Module Uart 1](program 1.jpg)
+![Module Uart 1](program.jpg)
 ![Module Uart 2](program 2.jpg)
 
 Controll
 ---------
 ![User Server](html.png)
 ![By App](app.png)
-other device go to : ip address of Esp 
+other device go to : ip address of Esp. 
 File apk app for android (APP)
 
 Schematic
