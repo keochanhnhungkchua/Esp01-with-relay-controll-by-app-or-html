@@ -1,4 +1,4 @@
-ESP-01S Relay Adruino Firmware
+ESP-01S Relay Adruino Firmware Controll by App or Server 
 ======================
 
 Firmware for controlling an ESP-01S-based IoT relay.
