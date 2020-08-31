@@ -14,7 +14,9 @@ Controll
 ---------
 ![User Server](html.png)
 ![By App](app.png)
+
 other device go to : ip address of Esp. 
+
 File [apk](APP) app for android
 
 Schematic
